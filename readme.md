@@ -4,6 +4,8 @@
 Переходим в zapret-winws.
 Запускаем discord.cmd
 
+Автор конфига:
+https://github.com/bol-van/zapret/issues/455#issuecomment-2400511001
 
 ﻿Zapret winws bundle for windows
 
