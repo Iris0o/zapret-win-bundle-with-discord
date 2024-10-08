@@ -1,3 +1,8 @@
+
+Переходим в zapret-winws
+Запускаем discord.cmd
+
+
 ﻿Zapret winws bundle for windows
 
 main repository : https://github.com/bol-van/zapret
