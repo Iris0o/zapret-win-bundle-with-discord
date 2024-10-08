@@ -1,5 +1,7 @@
 
-Переходим в zapret-winws
+![изображение](https://github.com/user-attachments/assets/67ad10a1-6056-4cfd-bae5-8866fc943cdb)
+
+Переходим в zapret-winws.
 Запускаем discord.cmd
 
 
